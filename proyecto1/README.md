@@ -57,3 +57,5 @@ Puedes descargar archivos de texto grandes del Proyecto Gutenberg, por ejemplo:
 
 ## Autoría y restricciones
 - Proyecto para el curso IC6600 - Principios de Sistemas Operativos
+- [Andres Arias](https://github.com/andco97)
+- [Natalia Rodriguez](https://github.com/Naty023)
